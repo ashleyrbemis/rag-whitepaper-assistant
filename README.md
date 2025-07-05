@@ -54,11 +54,9 @@ This project implements a Retrieval Augmented Generation (RAG) system designed t
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
-cd your_repository_name
+git clone [https://github.com/ashleyrbemis/rag-whitepaper-assistant.git](https://github.com/ashleyrbemis/rag-whitepaper-assistant.git)
+cd rag-whitepaper-assistant
 ```
-
-*(Replace `your_username/your_repository_name` with your actual GitHub path once uploaded.)*
 
 ### 2. Set up Virtual Environment
 
@@ -147,6 +145,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-* Your Name - [Your Email](mailto:your.email@example.com)
+* Ashley Bemis - [arbemis *at* gmail.com](mailto:arbemis@gmail.com)
 
-* Project Link: [https://github.com/your_username/your_repository_name](https://github.com/your_username/your_repository_name)
+* Project Link: [https://github.com/ashleyrbemis/rag-whitepaper-assistant](https://github.com/ashleyrbemis/rag-whitepaper-assistant)
