@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+
+# Virtual Environment
+rag_env/
+
+# Data/ChromaDB
+data/                 # Ignore the entire data directory
+chroma_db_gen_ai/     # Ignore the ChromaDB persistent directory
+
+# Credentials
+.env
+*.json # Explicitly ignore your service account key
+*.pem
+*.key
+
+# OS generated files
+.DS_Store             # macOS
+Thumbs.db             # Windows
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Backup files (often created by text editors)
+*~
